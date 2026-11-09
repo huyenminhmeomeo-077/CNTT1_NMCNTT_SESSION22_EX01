@@ -1,3 +1,10 @@
+**3. Yêu cầu nghiệp vụ**
+
+- Viết một chuỗi truy vấn (Query) sử dụng toán tử **filetype:**, **site:** và dấu ngoặc kép " " để tìm trực tiếp tệp tin PDF trên máy chủ của trường.
+site:edu.vn "Nhập môn Công nghệ Thông tin" filetype:pdf -site:vn-zoom.org -site:tainguyenso.net
+- Sử dụng toán tử trừ **-** để loại bỏ ít nhất 2 trang web "rác" thường xuyên xuất hiện trong kết quả tìm kiếm.
+Lọc trực tiếp định dạng tệp: giúp bỏ qua các bài viết giới thiệu, quảng cáo, trang tải rác.
+Tiết kiệm thời gian: Thay vì phải truy cập từng website để tìm liên kết tải, nhận được trực tiếp đường dẫn tải tệp tài liệu nguyên bản.
 **4\. Yêu cầu đầu ra**
 
 * Mô tả tại sao việc dùng toán tử **filetype:** lại giúp tiết kiệm thời gian hơn so với việc gõ "tải sách..." thông thường.  
